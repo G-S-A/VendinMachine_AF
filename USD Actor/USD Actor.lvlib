@@ -5,6 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Actualizar Credito Msg.lvclass" Type="LVClass" URL="../../USD Actor Messages/Actualizar Credito Msg/Actualizar Credito Msg.lvclass"/>
 		<Item Name="Init Msg.lvclass" Type="LVClass" URL="../../USD Actor Messages/Init Msg/Init Msg.lvclass"/>
 	</Item>
 	<Item Name="USD Actor.lvclass" Type="LVClass" URL="../USD Actor.lvclass"/>
