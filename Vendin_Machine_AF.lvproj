@@ -19,6 +19,9 @@
 			<Item Name="REFRESCOS Y PAPAS ACTOR.lvlib" Type="Library" URL="../REFRESCOS Y PAPAS ACTOR/REFRESCOS Y PAPAS ACTOR.lvlib"/>
 			<Item Name="CAFE ACTOR.lvlib" Type="Library" URL="../CAFE ACTOR/CAFE ACTOR.lvlib"/>
 		</Item>
+		<Item Name="MENSAJES" Type="Folder">
+			<Item Name="MENSAJES.lvlib" Type="Library" URL="../MENSAJES/MENSAJES.lvlib"/>
+		</Item>
 		<Item Name="UI Actor.lvlib" Type="Library" URL="../UI Actor/UI Actor.lvlib"/>
 		<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
 		<Item Name="Control 2.ctl" Type="VI" URL="../../../../../../Documents/Control 2.ctl"/>
