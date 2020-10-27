@@ -7,6 +7,7 @@
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Actualizar Credito Msg.lvclass" Type="LVClass" URL="../../USD Actor Messages/Actualizar Credito Msg/Actualizar Credito Msg.lvclass"/>
 		<Item Name="Init Msg.lvclass" Type="LVClass" URL="../../USD Actor Messages/Init Msg/Init Msg.lvclass"/>
+		<Item Name="Precio VS Credito Msg.lvclass" Type="LVClass" URL="../../USD Actor Messages/Precio VS Credito Msg/Precio VS Credito Msg.lvclass"/>
 	</Item>
 	<Item Name="USD Actor.lvclass" Type="LVClass" URL="../USD Actor.lvclass"/>
 </Library>

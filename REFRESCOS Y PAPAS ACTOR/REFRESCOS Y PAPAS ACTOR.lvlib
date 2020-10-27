@@ -5,6 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Actualiza Tabla Msg.lvclass" Type="LVClass" URL="../../REFRESCOS Y PAPAS ACTOR Messages/Actualiza Tabla Msg/Actualiza Tabla Msg.lvclass"/>
 		<Item Name="Comprar Producto Msg.lvclass" Type="LVClass" URL="../../REFRESCOS Y PAPAS ACTOR Messages/Comprar Producto Msg/Comprar Producto Msg.lvclass"/>
 		<Item Name="Init Msg.lvclass" Type="LVClass" URL="../../REFRESCOS Y PAPAS ACTOR Messages/Init Msg/Init Msg.lvclass"/>
 		<Item Name="Producto Seleccionado Msg.lvclass" Type="LVClass" URL="../../REFRESCOS Y PAPAS ACTOR Messages/Producto Seleccionado Msg/Producto Seleccionado Msg.lvclass"/>
